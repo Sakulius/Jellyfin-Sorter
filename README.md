@@ -16,7 +16,7 @@ How it sorts:
   sort in in the app with the season + - button
   you can drag them so its in order :)
 
-  Example
+  Example:
   
          
                Season 00      
